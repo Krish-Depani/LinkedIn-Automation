@@ -1,0 +1,1 @@
+Enter Competitor profiles here, one on each line (Remove this linw while adding)
